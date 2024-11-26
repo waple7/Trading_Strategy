@@ -11,3 +11,6 @@ The problem of predicting a buy (value = 1) or sell (value = 0) signal for a tra
 ### Importance of Data Harvesting and Feature Engineering
 
 Data harvesting (data collection in this context) and feature engineering are relevant factors in improving time series models. It's interesting to investigate whether traditionally stock-oriented feature engineering modifications are relevant to digital assets, and if so, which ones.
+
+# Result
+![Predict target](/accuracy.png)
