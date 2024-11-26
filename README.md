@@ -19,7 +19,7 @@ Data harvesting (data collection in this context) and feature engineering are re
 # Without Feature engeneering
 ![FE_FI](images/without_FE.png)
 
-# Multi trace
+# Multitrace
 ![FE_FI](images/multi_trace.png)
 
 # Train SMA1 SMA2
